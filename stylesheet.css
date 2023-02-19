@@ -1,0 +1,44 @@
+html, body {
+    background-color: black;
+    text-align: center;
+    height: 100%;
+    margin: 0;
+}
+
+.heading {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: white;
+    font-weight: bold;
+    width: 50%;
+    color: rgb(0, 0, 0);
+    position: relative;
+    left: 25%;
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.main-text {
+    width:70%;
+    position: relative;
+    left: 15%;
+    font-style: italic;
+    border: 2px solid gray;
+    padding: 15px;
+}
+
+.end-text {
+    font-family: cursive;
+
+
+}
+
+.end-element {
+    margin: 50px 0 0 0;
+}
+
+
+
+
+
