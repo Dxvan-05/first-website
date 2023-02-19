@@ -1,16 +1,16 @@
-html, body {
+
+
+body {
     background-color: black;
     text-align: center;
-    height: 100%;
-    margin: 0;
 }
 
-.heading {
+h1 {
     font-family: 'Courier New', Courier, monospace;
-    background-color: white;
+    background-color: #ffffff;
     font-weight: bold;
     width: 50%;
-    color: rgb(0, 0, 0);
+    color: #000000;
     position: relative;
     left: 25%;
 }
@@ -28,14 +28,10 @@ p {
     padding: 15px;
 }
 
-.end-text {
-    font-family: cursive;
 
-
-}
-
-.end-element {
+h3 {
     margin: 50px 0 0 0;
+    font-family: cursive;
 }
 
 
