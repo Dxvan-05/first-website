@@ -9,10 +9,9 @@ h1 {
     font-family: 'Courier New', Courier, monospace;
     background-color: #ffffff;
     font-weight: bold;
+    display: inline-block;
     width: 50%;
     color: #000000;
-    position: relative;
-    left: 25%;
 }
 
 p {
